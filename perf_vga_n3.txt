@@ -1,0 +1,16 @@
+# started on Wed Nov 11 16:06:32 2026
+
+
+ Performance counter stats for './projet --kernel 3 --video videos/vga.mp4 --frames 100 --warmup 10 --csv profiled_vga_n3.csv --no-display':
+
+       45727631253      cycles                                                                
+      125865299438      instructions                                                          
+          43822954      cache-references                                                      
+          24905039      cache-misses                                                          
+
+      12.541927131 seconds time elapsed
+
+      11.688683000 seconds user
+       0.631277000 seconds sys
+
+

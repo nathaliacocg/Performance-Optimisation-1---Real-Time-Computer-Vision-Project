@@ -1,0 +1,16 @@
+# started on Wed Nov 11 16:25:55 2026
+
+
+ Performance counter stats for './projet --kernel 3 --video videos/hd.mp4 --frames 100 --warmup 10 --csv profiled_hd_n3.csv --no-display':
+
+      121370071775      cycles                                                                
+      364053981368      instructions                                                          
+          99261811      cache-references                                                      
+          56791675      cache-misses                                                          
+
+      31.502260340 seconds time elapsed
+
+      30.526784000 seconds user
+       0.609653000 seconds sys
+
+
